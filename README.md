@@ -15,7 +15,7 @@ Este projeto utiliza técnicas de Análise Exploratória de Dados (EDA) e Aprend
 Para instalar as dependências do projeto, execute:
 
 ```sh
-pipenv install pandas plotly matplotlib statsmodels nbformat ipykernel scikit-learn ipywidgets sweetviz flask pydantic pyarrow Flask-Pydantic optuna joblib
+pipenv install
 ```
 
 ## Uso
@@ -103,7 +103,7 @@ This project utilizes Exploratory Data Analysis (EDA) and Machine Learning techn
 To install the project dependencies, run:
 
 ```sh
-pipenv install pandas plotly matplotlib statsmodels nbformat ipykernel scikit-learn ipywidgets sweetviz flask pydantic pyarrow Flask-Pydantic optuna joblib
+pipenv install
 ```
 
 ## Usage
@@ -191,7 +191,7 @@ Este proyecto utiliza Análisis Exploratorio de Datos (EDA) y técnicas de Apren
 Para instalar las dependencias del proyecto, ejecuta:
 
 ```sh
-pipenv install pandas plotly matplotlib statsmodels nbformat ipykernel scikit-learn ipywidgets sweetviz flask pydantic pyarrow Flask-Pydantic optuna joblib
+pipenv install
 ```
 
 ## Uso
